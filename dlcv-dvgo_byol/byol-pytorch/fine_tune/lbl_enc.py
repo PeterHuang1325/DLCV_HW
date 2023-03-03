@@ -1,0 +1,11 @@
+enc2class = {13: 'Couch', 27: 'Helmet', 48: 'Refrigerator', 0: 'Alarm_Clock', 4: 'Bike', 5: 'Bottle',
+             7: 'Calculator', 10: 'Chair', 36: 'Mouse', 34: 'Monitor', 59: 'Table', 42: 'Pen',
+             43: 'Pencil', 22: 'Flowers', 52: 'Shelf', 32: 'Laptop', 56: 'Speaker', 54: 'Sneakers',
+             45: 'Printer', 8: 'Calendar', 3: 'Bed', 30: 'Knives', 1: 'Backpack', 41: 'Paper_Clip',
+             9: 'Candles', 55: 'Soda', 11: 'Clipboards', 24: 'Fork', 18: 'Exit_Sign', 31: 'Lamp_Shade',
+             63: 'Trash_Can', 12: 'Computer', 50: 'Scissors', 64: 'Webcam', 53: 'Sink', 44: 'Postit_Notes',
+             25: 'Glasses', 20: 'File_Cabinet', 47: 'Radio', 6: 'Bucket', 16: 'Drill', 15: 'Desk_Lamp',
+             62: 'Toys', 29: 'Keyboard', 38: 'Notebook', 49: 'Ruler', 61: 'ToothBrush', 35: 'Mop',
+             21: 'Flipflops', 39: 'Oven', 58: 'TV', 17: 'Eraser', 60: 'Telephone', 28: 'Kettle',
+             14: 'Curtains', 37: 'Mug', 19: 'Fan', 46: 'Push_Pin', 2: 'Batteries', 40: 'Pan',
+             33: 'Marker', 57: 'Spoon', 51: 'Screwdriver', 26: 'Hammer', 23: 'Folder'}
